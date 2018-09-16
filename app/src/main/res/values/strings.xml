@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Underline text in android</string>
+    <string name="forgot_pass"><u>Forgot password?</u></string>
+    <string name="hint_email_phone">Email and phone</string>
+    <string name="hint_pass">Passwork</string>
+    <string name="login">Log in</string>
+    <string name="hoi">?</string>
+    <string name="sign_up"><u>Sign up for Facebook</u></string>
+</resources>
